@@ -1,0 +1,232 @@
+html{
+    font-size: 50%;
+}
+.a{
+    border: 1px solid black;
+}
+.row{
+    border: 1px solid black;
+}
+.col{
+    border: 1px solid black;
+}
+.container{
+    border: 1px solid black;
+}
+
+.navbar{
+    background-color: #F0F0F0;
+}
+.nav-1{
+    background-color: green;
+    font-family: 'Bangla', sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+.nav-2{
+    background-color: green;
+    font-family: 'Bangla', sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.body{
+    margin-top: 1rem;
+}
+
+.margin-top{
+    margin-top: 1rem;
+}
+.margin-bottom{
+    margin-bottom: 1rem;
+}
+.margin-bottombig{
+    margin-bottom: 5rem;
+}
+.scrollable{
+    height: 275px;
+    overflow: scroll;
+}
+.scrollable1{
+    height: 275px;
+    overflow: scroll;
+}
+.scrollablewidth{
+    font-size: 15px;
+    overflow: scroll;
+    font-family: 'Bangla', sans-serif;
+}.scrollablefooter{
+    font-size: 20px;
+    overflow: scroll;
+    font-family: 'Bangla', sans-serif;
+}
+.scrollablecalendar{
+    overflow: scroll;
+}
+.background-greenn{
+    background-color: green;
+    font-size: 15px;
+    color: white;
+    font-family: 'Bangla', sans-serif;
+}
+.background-greenn:hover{
+    background-color: white;
+    color: green;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Bangla', sans-serif;
+}
+.calendar{
+    width: 130px;
+    height: 120px;
+    background-color: green;
+    color: #fff;
+    border-radius: 5%;
+    box-shadow: 0 4px 4px 0 rgba(50, 50, 50, 0.4);
+}
+.calendar>p{
+    font-family: Verdana, Arial, sans-serif;
+    padding: rpx 0;
+    margin: 0;
+    color: #fff;
+    text-align: center;
+}
+.calendar-day{
+    font-size: 10px;
+}
+.calendar-month-year{
+    font-size: 10px;
+}
+.calendar-date{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+.picture{
+    width: 100%;
+}
+.picture1{
+    position: relative;
+    width: 100%;
+}
+.picture1:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.picture2{
+    height: 250px;
+    width: 100%;
+}
+.picture2:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.picture3{
+    height: 250px;
+    width: 100%;
+}
+.picture3:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.picture4{
+    height: 700px;
+    width: 100%;
+}
+.picture4:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.picture5{
+    height: 500px;
+    width: 125%;
+}
+.picture5:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.picture6{
+    position: relative;
+    height: 700px;
+    width: 127%;
+}
+.picture6:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.picture7{
+    position: relative;
+    height: 400px;
+    width: 127%;
+}
+.picture7:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.picture8{
+    position: relative;
+    height: 400px;
+    width: 125%;
+}
+.picture8:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.picture8{
+    position: relative;
+    height: 400px;
+    width: 110%;
+}
+.picture9{
+    position: relative;
+    height: 300px;
+    width: 100%;
+}
+.picture9:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.picture10{
+    position: relative;
+    height: 350px;
+    width: 100%;
+}.picture10:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.picture11{
+    position: relative;
+    height: 350px;
+    width: 100%;
+}
+.picture11:hover{
+    cursor: zoom-in;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.footer{
+    width: 100px;
+}
+.footernavbar{
+    background-color: #F0F0F0;
+    font-family: 'Bangla', sans-serif;
+    color: green;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+#popup-img{
+    padding: 10px;
+    cursor: zoom-out;
+}
